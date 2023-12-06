@@ -1,0 +1,26 @@
+h5 {
+  color: white;
+}
+.formulario {
+  width: 300px;
+  border-radius: 0.25rem;
+  background-color: #d1e7dd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(rgb(123, 96, 161), rgb(59, 47, 152));
+}
+.form-group {
+  padding: 0.5rem;
+  width: 90%;
+}
+
+.btn-primary {
+  padding: 0.25rem;
+  margin: 0.5rem;
+  border-radius: 0.25rem;
+  background-color: rgb(66, 15, 160);
+  width: 90%;
+  color: antiquewhite;
+}

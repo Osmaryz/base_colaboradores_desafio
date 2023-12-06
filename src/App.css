@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 0;
+  
+}
+
+html, body {
+  font-family:'Franklin Gothic Medium', sans-serif;
+height: 100vh;
+background: linear-gradient(rgb(24, 16, 35) ,rgb(59, 47, 152),rgb(76, 9, 90) );
+}
+
+.padre_contenedor {
+  font-family:'Franklin Gothic Medium', sans-serif;
+  width: 100%;
+  
+}
